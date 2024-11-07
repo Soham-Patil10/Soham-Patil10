@@ -10,7 +10,6 @@ I’m currently completing my undergraduate studies at **Mukesh Patel School of 
 - Skilled in **Python, C++, HTML, CSS, JavaScript**, and libraries like **NumPy, Pandas, Scipy, Matplotlib, Keras, TensorFlow, and OpenCV**
 
 ### 📫 Let's Connect!
-- **GitHub**: [Soham-Patil10](https://github.com/Soham-Patil10)
 - **LinkedIn**: [Soham Patil](https://www.linkedin.com/in/soham-patil-978949274/)
 - **Email**: sohampatil2016@gmail.com
 
