@@ -257,12 +257,34 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 <div align="center">
 
-<!-- TODO: generate this via the snk GitHub Action on your own repo -->
-<img src="https://raw.githubusercontent.com/Soham-Patil10/Soham-Patil10/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soham-Patil10/Soham-Patil10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soham-Patil10/Soham-Patil10/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Soham-Patil10/Soham-Patil10/output/github-snake.svg" />
+</picture>
 
 </div>
 
+---
 
+## 🔭 Current Focus
+
+```yaml
+Learning:
+  - Cloud fundamentals (AWS)
+  - Advanced adversarial machine learning techniques
+
+Building:
+  - "TrafficGuard: adversarial robustness dashboard for traffic-congestion AI"
+
+Exploring:
+  - MLOps pipelines
+  - Generative AI / LLM application development
+
+Open To:
+  - Software Engineering Internships & Full-Time Roles
+  - AI / ML Engineering opportunities
+```
 
 ---
 
