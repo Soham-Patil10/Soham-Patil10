@@ -227,7 +227,7 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Patil10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0F1A&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
+<img src="./profile/top-langs.svg" width="49%"/>
 
 </div>
 
@@ -237,7 +237,7 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Soham-Patil10&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="./profile/trophy.svg"/>
 
 </div>
 
