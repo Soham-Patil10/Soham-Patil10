@@ -222,22 +222,12 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soham-Patil10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0F1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%"/>
+<img src="./profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Soham-Patil10&theme=tokyonight&hide_border=true&background=0D0F1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" width="49%"/>
 
 <br/>
 
 <img src="./profile/top-langs.svg" width="49%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="./profile/trophy.svg"/>
 
 </div>
 
