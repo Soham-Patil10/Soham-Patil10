@@ -18,7 +18,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Soham-Patil10
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
