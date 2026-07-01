@@ -75,94 +75,6 @@ I approach engineering with a **product mindset**: clean architecture, reproduci
 
 ---
 
-## 🧠 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Computer Vision** | 🟣🟣🟣🟣⚪ Advanced | ResNet18-based image classification pipelines; transfer learning on real-world traffic imagery (MIO-TCD) |
-| **Adversarial ML & AI Security** | 🟣🟣🟣🟣⚪ Advanced | FGSM, PGD, and data-poisoning attack simulation; spatial-smoothing & adversarial-training defenses |
-| **Deep Learning** | 🟣🟣🟣🟣⚪ Advanced | PyTorch / TensorFlow / Keras training pipelines, CUDA-accelerated workflows |
-| **NLP & LLMs** | 🟣🟣🟣⚪⚪ Intermediate | Document-grounded chatbot, retrieval & QA over unstructured PDFs/Excel |
-| **Anomaly Detection** | 🟣🟣🟣⚪⚪ Intermediate | Isolation Forest, Local Outlier Factor, One-Class SVM for fraud detection |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🛡️ TrafficGuard: Adversarial Robustness Dashboard for Urban Traffic AI</b></summary>
-<br/>
-
-A full-stack platform that benchmarks how a ResNet18-based traffic-congestion classifier behaves under adversarial attack, and how well a set of defenses recover its performance. Built as group lead coordinating a six-person engineering team across model training, attack, and defense modules.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | PyTorch, ResNet18, FastAPI, React, MIO-TCD Localization dataset |
-| **Scale** | 6-engineer team, multi-sprint capstone delivery |
-| **Performance** | ~84% validation accuracy on subsampled MIO-TCD data |
-| **Security** | Simulates FGSM, PGD & poisoning attacks; implements spatial-smoothing and adversarial-training defenses |
-| **Impact** | Interactive dashboard for visualizing model degradation and defense recovery on congestion-classification AI |
-| **Repository** | [github.com/Soham-Patil10](https://github.com/Soham-Patil10) <!-- TODO: link the actual repo --> |
-
-</details>
-
-<details>
-<summary><b>💬 Chatbot for Document Analysis</b></summary>
-<br/>
-
-An NLP-powered assistant that extracts and answers questions directly from Excel and PDF documents, removing the need to manually search large files for specific information.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, NLP, LLM-based retrieval |
-| **Scale** | Individual research/academic project |
-| **Performance** | Reliable extraction and Q&A accuracy across varied document structures |
-| **Security** | Local document parsing with no external data exposure |
-| **Impact** | Faster, more accurate document interrogation for unstructured content |
-| **Repository** | [github.com/Soham-Patil10](https://github.com/Soham-Patil10) <!-- TODO: link the actual repo --> |
-
-</details>
-
-<details>
-<summary><b>💳 Anomaly Detection for Fraudulent Transactions</b></summary>
-<br/>
-
-An unsupervised-learning system that flags suspicious credit card transactions by combining multiple anomaly-detection techniques.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, scikit-learn, Isolation Forest, Local Outlier Factor, One-Class SVM |
-| **Scale** | Academic dataset-based fraud-detection project |
-| **Performance** | Effective flagging of suspicious transaction patterns across ensemble models |
-| **Security** | Directly targets reduction of financial fraud exposure |
-| **Impact** | Demonstrates practical unsupervised anomaly detection for financial risk reduction |
-| **Repository** | [github.com/Soham-Patil10](https://github.com/Soham-Patil10) <!-- TODO: link the actual repo --> |
-
-</details>
-
-<details>
-<summary><b>🎮 Crystal Clash: AR Game with AI Integration</b></summary>
-<br/>
-
-An augmented-reality "protect-the-base" game built in Unity, with AI-driven spatial tracking to dynamically define the playable area, plus a fully interactive in-game menu system.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Unity Engine, C#, AI spatial tracking |
-| **Scale** | Solo-built competition entry |
-| **Performance** | Smooth real-time AR tracking on mobile hardware |
-| **Security** | N/A, local AR application |
-| **Impact** | 🏆 2nd Place, "Quest of Realms" AR/VR competition (2023) |
-| **Repository** | [github.com/Soham-Patil10](https://github.com/Soham-Patil10) <!-- TODO: link the actual repo --> |
-
-</details>
-
----
-
 ## 💼 Experience
 
 ### Software Development Intern
@@ -179,29 +91,16 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥈 2nd Place | "Quest of Realms" AR/VR Competition, 2023 |
-| 🎖️ 4th Place | RBKIS Model United Nations, 2018 |
-| 🥉 Bronze Medal | District-Level Skating Championship, 2014 |
-
-</div>
-
----
 
 ## 📜 Certifications
 
 <!-- TODO: Add your real certification badges below, grouped by provider -->
 
 **AWS**
-<p><i>Add your AWS certification badges here</i></p>
+<p><i>To be added.</i></p>
 
 **Udemy**
-<p><i>Add your Udemy certification badges here</i></p>
+<p><i>To be added.</i></p>
 
 ---
 
@@ -210,7 +109,7 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 <!-- TODO: replace placeholder usernames with your real handles -->
 <div align="center">
 
-<a href="https://leetcode.com/your-leetcode-username">
+<a href="https://leetcode.com/u/Soham-Patil/">
   <img src="https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
