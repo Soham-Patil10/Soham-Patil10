@@ -197,7 +197,7 @@ Open To:
 
 <div align="center">
 
-<i>"Robust systems aren't the ones that never break, they're the ones built to recover."</i>
+<i>"Greatness from small beginnings."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
