@@ -128,16 +128,6 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Patil10&theme=tokyo-night&hide_border=true&bg_color=0D0F1A&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
