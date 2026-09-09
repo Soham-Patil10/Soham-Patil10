@@ -121,11 +121,7 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=Soham-Patil10&theme=tokyonight&hide_border=true&background=0D0F1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" width="49%"/>
-
-<br/>
-
 <img src="./profile/top-langs.svg" width="49%"/>
 
 </div>
