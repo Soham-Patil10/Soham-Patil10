@@ -97,7 +97,9 @@ Contributed to the FuelEU web application, completing 40+ tasks spanning fronten
 <!-- TODO: Add your real certification badges below, grouped by provider -->
 
 **AWS**
-<p><i>To be added.</i></p>
+<p><a href="https://www.credly.com/badges/e5233e8b-b28c-4ffd-8e87-d28b487018e0/public_url">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="130" alt="AWS Certified AI Practitioner"/>
+  </a></p>
 
 **Udemy**
 <p><i>To be added.</i></p>
